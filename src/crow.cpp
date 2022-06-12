@@ -36,6 +36,7 @@ SOFTWARE.
 #include <regex> // regex, regex_match, smatch
 #include <stdexcept> // invalid_argument
 #include <sstream> // stringstream
+#include <thread>
 #include <crow/crow.hpp>
 #include <src/crow_config.hpp>
 #include <src/crow_utilities.hpp>
